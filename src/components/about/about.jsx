@@ -18,7 +18,8 @@ export const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          Hello there. I am Paras Jain, a Web developer and
+          Hello there. I am Paras Jain, Student of ITM University, Gwalior, studying the course of BCA[Hons.].<br/>
+          I am a Web developer and
           Well-organised person, problem solver with high attention to detail,
           who is fond of programming and quite good at java, python, C, C++,
           JavaScript. I've worked on multiple projects and have technical skills

@@ -1,5 +1,4 @@
-import { useReducer } from "react/cjs/react.development";
-import { createContext } from "react/cjs/react.production.min";
+import { createContext, useReducer } from "react/cjs/react.development";
 
 export const ThemeContext = createContext()
 
