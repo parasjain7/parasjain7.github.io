@@ -4,7 +4,7 @@ import "./contact.css"
 import Phone from "../../img/phone.png"
 import Email from "../../img/email.png"
 import Address from "../../img/address.png"
-import { useContext, useState } from "react/cjs/react.development";
+import { useContext, useState } from "react";
 import { ThemeContext } from "../../context";
 
 const Contact = () => {
