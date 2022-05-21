@@ -18,5 +18,10 @@ export const products = [
         id: 4,
         img: "https://github.com/parasjain7/Portfolio-Images/blob/main/analog-clock.png?raw=true",
         link: "https://parasjain7.github.io/analogclock/",
+    },
+    {
+        id: 5,
+        img: "https://github.com/parasjain7/Portfolio-Images/blob/main/placement-form.png?raw=true",
+        link: "https://parasjain7.github.io/placement-form/"
     }
 ]
