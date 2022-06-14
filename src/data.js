@@ -24,4 +24,9 @@ export const products = [
         img: "https://github.com/parasjain7/Portfolio-Images/blob/main/placement-form.png?raw=true",
         link: "https://parasjain7.github.io/placement-form/"
     }
+    {
+        id: 6,
+        img: "https://github.com/parasjain7/Portfolio-Images/blob/main/resume.png?raw=true",
+        link: "https://parasjain7.github.io/myresume/"
+    }
 ]
