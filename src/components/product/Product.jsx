@@ -1,6 +1,5 @@
 import React from 'react'
 import "./product.css"
-// import image from "../../img/Me.png"
 
 const Product = ({img,link}) => {
   return (

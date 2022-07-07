@@ -18,14 +18,12 @@ export const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          Hello there. I am Paras Jain, Student of ITM University, Gwalior, studying the course of BCA[Hons.].<br/>
+          Hello there. I am Paras Jain, Student of ITM University, Gwalior,pursuing the course of BCA[Hons.].<br/>
           I am a Web developer and
           Well-organised person, problem solver with high attention to detail,
           who is fond of programming and quite good at java, python, C, C++,
           JavaScript. I've worked on multiple projects and have technical skills
-          and knowledge. I enjoy creating things that live on the internet. I've
-          been coding from quite a long time and gained some enriching
-          experience. In a nutshell, I'm a pragmatic guy who's obsessed with
+          and knowledge. I enjoy creating things that live on the internet. I'm a pragmatic guy who's obsessed with
           HTML, CSS and React JS.
         </p>
       </div>
