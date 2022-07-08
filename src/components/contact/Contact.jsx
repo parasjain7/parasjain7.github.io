@@ -51,7 +51,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img src={Address} alt="" className="c-icon" />
-              Balabai bazar, Bada, Gwalior, MP, 474006
+              Balabai bazar, Bada, Gwalior, MP, 474001
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@ const Contact = () => {
               placeholder="Message"
             ></textarea>
             <button>Submit</button>
-            {done && " Thank you..."}
+            {done && alert("Thankyou for contacting, we will contact you soon ")}
           </form>
         </div>
       </div>
