@@ -37,6 +37,6 @@ export const products = [
     {
         id: 8,
         img: "https://github.com/parasjain7/Portfolio-Images/blob/main/E-Commerce%20Website.png?raw=true",
-        link: ""
+        link: "https://thebeatsound.vercel.app/"
     }
 ]
